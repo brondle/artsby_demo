@@ -89,6 +89,7 @@ function drawWords(x, y) {
 
 }
 
+
 function windowResized() {
   setTimeout(() => {
     window.location.reload()
